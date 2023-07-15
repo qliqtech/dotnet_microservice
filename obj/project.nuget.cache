@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gkISj+UvsUAkg7o8MBNwrdK7UQaUBK0FNSmVyFtHamctHxyH1krNYIAFLen5pCkdISodlnMapf51Yd+aAeKPag==",
+  "dgSpecHash": "yju+LEwTWN0dx1ZkVmM/fFUsI7HJigVoElUEoyMXLnQ+p6+kcAKRo5W/uHvChRtO8w8FhAZ1VCwSuo8nG163hg==",
   "success": true,
   "projectFilePath": "C:\\dotnetmicroservice\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\delll\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\delll\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\delll\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\delll\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\delll\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\delll\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\delll\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
